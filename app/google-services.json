@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129436013307",
+    "project_id": "metamoing-app",
+    "storage_bucket": "metamoing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129436013307:android:bc8d56b15a67a61ba3565e",
+        "android_client_info": {
+          "package_name": "com.example.everyreading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129436013307-30do8vjs4o05vtj21l6gjapp0oumgs6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.everyreading",
+            "certificate_hash": "a9a38080120a7a419e1c90381058763d8170556d"
+          }
+        },
+        {
+          "client_id": "129436013307-9ghu7j8jb1313r5ecvdfn2qp35qph9l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WdRItszlVZmd7hha4W8id7VkX2dgCSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129436013307-9ghu7j8jb1313r5ecvdfn2qp35qph9l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
